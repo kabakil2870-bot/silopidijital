@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Yönetim paneli site haritasında yer almaz ve sayfa noindex olarak işaretlenir.
+Sitemap: https://silopidijital.vercel.app/sitemap.xml
